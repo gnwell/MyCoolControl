@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mycoolcontrol</string>
+
+    <string name="txt_start">start</string>
+    <string name="txt_pause">pause</string>
+    <string name="txt_effect1">effect1</string>
+    <string name="txt_effect2">effect2</string>
+
+    <string name="txt_duration_msec">duration(msec): </string>
+    <string name="txt_defautl_dur_msec">10000</string>
+
+
+    <string name="txt_current_pos_msec">currentPos(msec): </string>
+
+</resources>
